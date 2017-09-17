@@ -1,14 +1,20 @@
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
 .contact_info{
     text-align: center;
-    
+    font-weight: bold;
 }
 
 .my_name {
     font-size: 1.4rem;
     text-transform: uppercase;
-}
-
-img {
-    display: block;
-    margin: 0 auto;
 }
