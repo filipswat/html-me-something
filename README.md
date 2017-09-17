@@ -1,2 +1,1 @@
-html and css pages created for LC101 project
-not a super impressive webpage...sorry
+summary of resume using html and css -- created for LC101 project
