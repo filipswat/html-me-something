@@ -17,6 +17,7 @@ figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
+	margin-left: 0.2rem;
 	padding: 0;
 	border: 0;
 	font-size: 100%;
@@ -31,8 +32,8 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-ol {
-	list-style: none;
+ol,ul {
+	list-style: disc;
 }
 blockquote, q {
 	quotes: none;

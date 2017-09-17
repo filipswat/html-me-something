@@ -7,6 +7,16 @@ h1 {
     text-transform: uppercase;
     font-weight: bold;
     text-decoration: underline;
+    padding: 1rem;
+    padding-left: 0;
+}
+
+ul {
+    padding-left: 1.5rem;
+}
+
+h4 {
+    font-style: italic;
 }
 
 .contact_info{
@@ -17,4 +27,12 @@ h1 {
 .my_name {
     font-size: 1.4rem;
     text-transform: uppercase;
+}
+
+.test {
+    list-style-type: circle;
+}
+
+.workplace {
+    padding-bottom: 1rem;
 }
