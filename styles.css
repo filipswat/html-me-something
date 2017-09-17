@@ -1,3 +1,8 @@
+main {
+    margin: 5rem;
+    border: 0.1rem solid black;
+}
+
 img {
     display: block;
     margin: 0 auto;
@@ -7,8 +12,12 @@ h1 {
     text-transform: uppercase;
     font-weight: bold;
     text-decoration: underline;
-    padding: 1rem;
+    padding: 0rem 1rem 1rem 1rem;
     padding-left: 0;
+}
+
+h2 {
+    font-weight: bold;
 }
 
 ul {
@@ -27,6 +36,7 @@ h4 {
 .my_name {
     font-size: 1.4rem;
     text-transform: uppercase;
+    text-decoration: underline;
 }
 
 .test {
@@ -34,5 +44,13 @@ h4 {
 }
 
 .workplace {
+    padding-bottom: .5rem;
+}
+
+.resume_section {
     padding-bottom: 1rem;
+}
+
+.school_section {
+    font-weight: bold;
 }
