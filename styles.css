@@ -1,0 +1,14 @@
+.contact_info{
+    text-align: center;
+    
+}
+
+.my_name {
+    font-size: 1.4rem;
+    text-transform: uppercase;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
